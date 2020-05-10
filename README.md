@@ -1,2 +1,3 @@
 # Book-HoML
-Selected Fun Exercises from "Hands-On Machine Learning with Scikit-Learn &amp; TensorFlow"
+Selected fun Python exercises from "Hands-On Machine Learning with Scikit-Learn and TensorFlow",
+by Aurelien Geron, 2017, O'Reilly. 
